@@ -1,8 +1,8 @@
 {
   "name": "multi-audio-for-uniapp",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "基于uni-app开发的多音频播放组件，适用于微信小程序。",
-  "main": "index.js",
+  "main": "./multi-audio",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
