@@ -1,8 +1,8 @@
 {
   "name": "multi-audio-for-uniapp",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "基于uni-app开发的多音频播放组件，适用于微信小程序。",
-  "main": "ain.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,13 @@
     "小程序多音频组件播放组件"
   ],
   "author": "zxd",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xavier-1991/multi-audio-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xavier-1991/multi-audio-npm/issues"
+  },
+  "homepage": "https://github.com/xavier-1991/multi-audio-npm#readme"
 }
